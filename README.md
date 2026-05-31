@@ -22,6 +22,10 @@ Soy estudiante de Técnico de Nivel Superior Analista Programador.
 - JavaScript
 - Git
 - Linux
+- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux)
 
 ## Actualmente aprendiendo
 
