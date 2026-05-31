@@ -31,10 +31,7 @@ Soy estudiante de Técnico de Nivel Superior Analista Programador.
 
 ## Proyectos Destacados
 
-- Sistema de Inventario
-- Sistema de Taller Mecánico
-- Proyecto Robot
-- NacoCron
+// EN PROCESO 
 
 ## Objetivo
 
