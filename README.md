@@ -28,7 +28,7 @@ Soy estudiante de Técnico de Nivel Superior Analista Programador.
 
 - Computación en la Nube
 - Fundamentos de Ciberseguridad
-
+- C#
 ## Proyectos Destacados
 
 // EN PROCESO 
